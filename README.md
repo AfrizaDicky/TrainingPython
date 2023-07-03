@@ -1,0 +1,2 @@
+# TrainingPython
+we learn together
